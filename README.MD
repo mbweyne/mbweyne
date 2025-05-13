@@ -41,6 +41,28 @@ Mais tarde, especializei-me como **Consultora Funcional Oracle**, com passagens 
 - Construção de redes neurais com **Keras** e **TensorFlow**
 
 ---
+## 📚 Cursos e Formações
+
+- 🎓 **Bootcamp de Ciência de Dados - TripleTen**  
+  Projeto final com mais de 10 projetos práticos em Machine Learning, EDA, NLP, Redes Neurais e Deploy.
+
+- 📊 **Marketing Estratégico - FGV (Fundação Getulio Vargas)**  
+  Foco em análise de mercado, comportamento do consumidor e estratégia de posicionamento.
+
+- 🧠 **Introdução à Estatística e Probabilidades - Khan Academy / TripleTen**
+
+- 🧮 **Python para Análise de Dados - TripleTen / Cursos Complementares**  
+  Aprendizado de bibliotecas como Pandas, NumPy, Matplotlib e Scikit-learn.
+
+- 🧾 **Formação Oracle ERP – Diversos módulos funcionais (GL, AP, AR, PO, OM, iE, Proc, Req etc.)**
+
+- 📚 **Leitura técnica contínua e projetos com foco em:**  
+  - Machine Learning e IA  
+  - Engenharia de Dados  
+  - Visualização Interativa com Streamlit  
+  - Deploy e boas práticas de Git/GitHub
+
+---
 
 ### 🛠 Tecnologias e Ferramentas
 
